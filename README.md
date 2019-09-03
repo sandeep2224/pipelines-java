@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/sandeeppasumarthy/TestProject1/_apis/build/status/sandeep2224.pipelines-java?branchName=master)](https://dev.azure.com/sandeeppasumarthy/TestProject1/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
